@@ -1,0 +1,16 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --text-color: #333;
+  --red: #da203b;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
